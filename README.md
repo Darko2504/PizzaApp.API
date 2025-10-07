@@ -1,5 +1,7 @@
 # 🍕 PizzaApp.API
 
+![PizzaApp API Screenshot](./assets/ss.png)
+
 A clean and modular **.NET Core Web API** for managing pizza orders and users. Built using **N-Tier Architecture**, **Clean Code principles**, and **best practices** like the **Repository Pattern**, **ASP.NET Identity**, and **AutoMapper**. The app is powered by **PostgreSQL** and designed for scalability and maintainability.
 
 ---
