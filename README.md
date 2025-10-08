@@ -2,7 +2,7 @@
 
 ![PizzaApp Screenshot](./PizzaAppAPI/AngularWithCsharp/assets/ss.png)
 
-A clean and modular **.NET Core Web API** for managing pizza orders and users. Built using **N-Tier Architecture**, **Clean Code principles**, and **best practices** like the **Repository Pattern**, **ASP.NET Identity**, and **AutoMapper**. The app is powered by **PostgreSQL** and designed for scalability and maintainability.
+A clean and modular **.NET Core Web API** for managing pizza orders and users built as a part of my course at Avenga Academy. Built using **N-Tier Architecture**, **Clean Code principles**, and **best practices** like the **Repository Pattern**, **ASP.NET Identity**, and **AutoMapper**. The app is powered by **PostgreSQL** and designed for scalability and maintainability.
 
 ---
 
